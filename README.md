@@ -101,12 +101,6 @@ Este repositório contém meu plano de estudos para três carreiras promissoras 
 
 ---
 
-## 🛣️ Roadmap Visual
-
-![Roadmap de Carreira](roadmap.png)
-
----
-
 ## 📌 Ordem sugerida
 1. **Análise de Dados** → base técnica e lógica.  
 2. **Suporte Técnico** → empregabilidade rápida e fundamentos de TI.  
